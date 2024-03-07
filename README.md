@@ -28,8 +28,6 @@ This project is aimed at automatically detecting the ripeness of fruits by analy
   - Python
   - OpenCV
 
-   ```
-
 ### Usage
 1. Ensure your webcam is properly connected to your system.
 2. Run the main script.
